@@ -1,31 +1,30 @@
 ---
 author: "daily-news-stack"
 title: "Live Updates: Canadian wildfire smoke creates unhealthy air quality across Pittsburgh area - CBS Pittsburgh"
-date: 2023-06-28 22:59:00 +0000 UTC
-description: "The skies in Pittsburgh became consumed by the smoke early Wednesday morning."
-thumbnail: https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/28/b75b61c3-2ea6-4cd0-9feb-c019fe5fa405/thumbnail/1200x630/652efd309619369e99ac8fd064ffab6b/fzs4jsjxgaihvhw.jpg?v=f3503a7856c58c20acab4eae8bb1f0f4
+date: 2023-06-29 11:13:00 +0000 UTC
+description: "A Code Red Air Quality Action Day has been issued by the Department of Environmental Protection for the second straight day."
+thumbnail: https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/29/57cb60c2-4ae4-4313-ac11-bfa86c7e554a/thumbnail/1200x630/75f47988a7c2148c25fed521323817ef/screenshot-2023-06-29-023201.png?v=f3503a7856c58c20acab4eae8bb1f0f4
 ---
 
-# Skies in Pittsburgh Filled with Smoke
+# Code Red Air Quality Action Day Extended for Second Consecutive Day
 
-*Date: June 30, 2023*
+The Department of Environmental Protection (DEP) has issued a Code Red Air Quality Action Day for the second day in a row. This announcement comes as concerns over deteriorating air quality continue to grow.
 
-Early Wednesday morning, residents of Pittsburgh witnessed an unusual and alarming sight as the skies above the city were engulfed in thick smoke. The sudden appearance of smoke created a sense of confusion and concern among the local population.
+A Code Red Air Quality Action Day is declared when the air quality index reaches hazardous levels, posing a significant risk to public health. During these days, individuals are advised to take necessary precautions to protect themselves from the harmful effects of polluted air.
 
-The source and cause of the extensive smoke are currently unknown. Despite efforts to gather information, authorities have yet to provide an official statement regarding the incident. However, based on initial observations and available details, several potential scenarios could explain the occurrence.
+The exact reasons behind the consecutive days of poor air quality have not been specified in the available information. However, several factors can contribute to such conditions. These may include high levels of air pollution due to industrial emissions, vehicle exhaust, or weather phenomena such as temperature inversions that trap pollutants close to the ground.
 
-One possibility is that there might have been a large fire in the vicinity of Pittsburgh that produced significant amounts of smoke. Fires can result from various causes, such as industrial accidents or natural events like lightning strikes. In such cases, it is crucial for emergency services to act swiftly to contain and extinguish the fire, ensuring the safety of both residents and property.
+The DEP recommends the following measures to minimize exposure to poor air quality:
 
-Another potential explanation could be the result of an environmental event, such as a localized weather phenomenon. Atmospheric conditions, including temperature inversions and stagnant air, can sometimes lead to the accumulation of pollutants and smoke near the ground level. While these situations are uncommon, they can occur under specific circumstances.
+1. Limit outdoor activities: It is advisable to reduce time spent outdoors, especially during peak pollution hours, typically during midday and afternoon.
+2. Stay indoors: If possible, stay indoors and keep windows and doors closed to prevent polluted air from entering your living spaces.
+3. Use air purifiers: Consider using air purifiers with high-efficiency particulate air (HEPA) filters to improve indoor air quality.
+4. Avoid physical exertion: Engaging in strenuous activities that require heavy breathing can lead to increased inhalation of pollutants, so it is best to avoid them on Code Red days.
+5. Check local air quality reports: Stay updated on the air quality index in your area by checking reliable sources such as local news or government websites.
+6. Follow medical advice: Individuals with respiratory conditions or other health issues should consult their healthcare providers for specific recommendations during periods of poor air quality.
 
-Given the lack of details surrounding the incident, it is also possible that the smoke was caused by a controlled burn or scheduled demolition. Authorities may have conducted planned operations that involved the intentional release of smoke into the atmosphere. While this is purely speculative, controlled burns and demolitions are sometimes carried out for urban development projects or land management purposes.
+It is crucial for the public to remain vigilant and prioritize their well-being during Code Red Air Quality Action Days. The DEP, along with other relevant authorities, will continue to monitor the situation closely and provide updates as necessary.
 
-In any case, it is essential for residents to stay informed about the situation and follow instructions from local authorities. If the smoke poses any immediate risks to health or safety, it is crucial to seek shelter indoors, close windows, and avoid unnecessary exposure until the situation is resolved or further information is provided.
-
-Efforts are underway to investigate the cause of the smoke and mitigate any potential hazards. As the authorities work to determine the origin of the smoke, it is expected that a more comprehensive update will be provided to the public in the coming hours or days.
-
-Pittsburgh residents are advised to stay tuned to local news sources, official announcements, and social media platforms for accurate and up-to-date information regarding the smoke incident. It is important to rely on reliable sources to avoid misinformation and unnecessary panic.
-
-The unexpected appearance of smoke in Pittsburgh's skies has understandably caused concern among the community. However, with ongoing efforts to assess the situation and provide timely updates, officials are working diligently to ensure the safety and well-being of all residents.
+Please note that further details on the specific location, time duration, and contributing factors would be beneficial for a more comprehensive understanding of the situation.
 
 *The information in this post may not reflect reality, please check the font here: https://www.cbsnews.com/pittsburgh/live-updates/live-updates-canadian-wildfire-smoke-clouds-pittsburgh-skies-air-quality-alerts-issued-for-western-pa/*
