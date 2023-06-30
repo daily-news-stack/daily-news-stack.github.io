@@ -59,6 +59,7 @@
   {{ template "_internal/opengraph.html" . }}
   {{ template "_internal/twitter_cards.html" . }}
   {{ template "_internal/schema.html" . }}
+  {{ partial "google/adsense" . }}
 
   {{ if gt (len .Site.Languages) 1}}
   <meta name="lang" content="{{ .Site.Language }}" />
