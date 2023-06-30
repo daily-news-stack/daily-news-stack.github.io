@@ -1,5 +1,5 @@
 ---
-author: Katheryn Fox
+author: Notícias Diárias
 title: About Me
 date: 2021-07-15
 description:

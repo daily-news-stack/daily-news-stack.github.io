@@ -1,4 +1,4 @@
 ---
-author: Katheryn Fox
+author: Notícias Diárias
 title: Blog
 ---
