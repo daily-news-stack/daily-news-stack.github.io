@@ -14,7 +14,7 @@
   {{- $firstHeaderLevel := len (seq (index (findRE "[1-4]" (index $headers 0) 1) 0)) -}}
 
   {{- $.Scratch.Set "bareul" slice -}}
-  <details id="TableOfContents" class="px-4 mt-4 bg-gray-100 dark:bg-gray-700 rounded toc">
+  <!-- <details id="TableOfContents" class="px-4 mt-4 bg-gray-100 dark:bg-gray-700 rounded toc">
     <summary class="flex items-center font-bold py-2 px-4 cursor-pointer justify-between select-none text-black dark:text-white">
       <span>Table of contents</span>
       <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-chevron-down" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -77,7 +77,7 @@
         <a href="#{{- $cleanedID -}}">{{- $header | safeHTML -}}</a>
         {{- end -}}
         {{- end -}}
-        <!-- {{- $firstHeaderLevel := len (seq (index (findRE "[1-4]" (index $headers 0) 1) 0)) -}} -->
+        {{- $firstHeaderLevel := len (seq (index (findRE "[1-4]" (index $headers 0) 1) 0)) -}}
         {{ $firstHeaderLevel := $largest }}
         {{- $lastHeaderLevel := len (seq (index (findRE "[1-4]" (index $headers (sub (len $headers) 1)) 1) 0)) -}}
       </li>
@@ -90,5 +90,6 @@
     {{- end -}}
     {{- end -}}
     </ul>
-  </details>
+  </details> -->
+  {{ partial "google/ad-display" . }}
   {{- end -}}
