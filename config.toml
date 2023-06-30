@@ -1,4 +1,4 @@
-baseurl = "https://noticias-diarias.github.io"
+baseurl = "https://daily-news-stack.github.io"
 metaDataFormat = "yaml"
 title = "Notícias Diárias"
 theme = "blist"
